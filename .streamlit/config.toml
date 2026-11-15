@@ -1,0 +1,7 @@
+[theme]
+base = "dark"
+primaryColor = "#0A84FF"              # Apple macOS System Blue (replaces default Streamlit red)
+backgroundColor = "#000000"           # Pure OLED Black canvas
+secondaryBackgroundColor = "#1C1C1E"  # Apple iOS/macOS Elevated Surface Grey
+textColor = "#F5F5F7"                 # Apple Off-White for zero eye strain
+font = "sans serif"

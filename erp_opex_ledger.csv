@@ -1,0 +1,145 @@
+﻿Date,Department,Account_Code,Expense_Line_Item,Cost_Type,Budget_INR,Actual_INR
+2026-01-01,Cloud Infrastructure,5101,Compute & Hosting,Variable,1800000,1827400
+2026-01-01,Cloud Infrastructure,5102,Data Storage & Backup,Variable,600000,"₹5,68,800"
+2026-01-01,Cloud Infrastructure,5103,Cloud Support & Licences,Fixed,400000,403000
+2026-01-01,G&A / Payroll,5401,Admin & Finance Salaries,Fixed,1500000,1487200
+2026-01-01,G&A / Payroll  ,5402,Office Rent & Utilities,Fixed,600000,605300
+2026-01-01,G&A / Payroll,5403,Professional & Legal Fees,Variable,300000,311700
+2026-01-01,Performance Marketing,5301,Paid Search & Social Ads,Variable,2000000,2012800
+2026-01-01,Performance Marketing,5302,Affiliate Commissions,Variable,700000,688900
+2026-01-01,Performance Marketing,5303,Marketing Analytics Tools,Fixed,250000,250000
+2026-01-01,R&D & Engineering,5201,Engineering Salaries,Fixed,3200000,3230100
+2026-01-01,R&D & Engineering,5202,Software Tools & Licences,Fixed,350000,343200
+2026-01-01,R&D & Engineering,5203,Contract Developers,Variable,900000,841400
+2026-02-01,Cloud Infrastructure,5101,Compute & Hosting,Variable,1818000,1824000
+2026-02-01,Cloud Infrastructure,5102,Data Storage & Backup,Variable,606000,640200
+2026-02-01,Cloud Infrastructure,5103,Cloud Support & Licences,Fixed,404000,405900
+2026-02-01,G&A / Payroll  ,5401,Admin & Finance Salaries,Fixed,1515000,1504700
+2026-02-01,G&A / Payroll,5402,Office Rent & Utilities,Fixed,606000,613400
+2026-02-01,G&A / Payroll,5403,Professional & Legal Fees,Variable,303000,300700
+2026-02-01,Performance Marketing,5301,Paid Search & Social Ads,Variable,2020000,2108700
+2026-02-01,Performance Marketing,5302,Affiliate Commissions,Variable,707000,705200
+2026-02-01,Performance Marketing  ,5303,Marketing Analytics Tools,Fixed,252000,251500
+2026-02-01,R&D & Engineering,5201,Engineering Salaries,Fixed,3232000,3204200
+2026-02-01,R&D & Engineering,5202,Software Tools & Licences,Fixed,354000,355300
+2026-02-01,R&D & Engineering,5203,Contract Developers,Variable,909000,865400
+2026-03-01,Cloud Infrastructure,5101,Compute & Hosting,Variable,1836000,1796700
+2026-03-01,Cloud Infrastructure  ,5102,Data Storage & Backup,Variable,612000,601200
+2026-03-01,Cloud Infrastructure,5103,Cloud Support & Licences,Fixed,408000,"₹4,10,200"
+2026-03-01,G&A / Payroll,5401,Admin & Finance Salaries,Fixed,1530000,1517500
+2026-03-01,G&A / Payroll  ,5402,Office Rent & Utilities,Fixed,612000,615800
+2026-03-01,G&A / Payroll,5403,Professional & Legal Fees,Variable,306000,323300
+2026-03-01,Performance Marketing,5301,Paid Search & Social Ads,Variable,2040000,2258400
+2026-03-01,Performance Marketing,5302,Affiliate Commissions,Variable,714000,699500
+2026-03-01,Performance Marketing,5303,Marketing Analytics Tools,Fixed,255000,253700
+2026-03-01,R&D & Engineering,5201,Engineering Salaries,Fixed,3264000,3275900
+2026-03-01,R&D & Engineering,5202,Software Tools & Licences,Fixed,357000,358500
+2026-03-01,R&D & Engineering  ,5203,Contract Developers,Variable,918000,937800
+2026-04-01,Cloud Infrastructure,5101,Compute & Hosting,Variable,1854000,1843400
+2026-04-01,Cloud Infrastructure  ,5102,Data Storage & Backup,Variable,618000,592000
+2026-04-01,Cloud Infrastructure,5103,Cloud Support & Licences,Fixed,412000,408600
+2026-04-01,G&A / Payroll,5401,Admin & Finance Salaries,Fixed,1545000,1548400
+2026-04-01,G&A / Payroll,5402,Office Rent & Utilities,Fixed,"₹6,18,000",623400
+2026-04-01,G&A / Payroll,5403,Professional & Legal Fees,Variable,309000,312500
+2026-04-01,Performance Marketing,5301,Paid Search & Social Ads,Variable,2060000,1991500
+2026-04-01,Performance Marketing,5302,Affiliate Commissions,Variable,721000,729400
+2026-04-01,Performance Marketing,5303,Marketing Analytics Tools,Fixed,258000,258300
+2026-04-01,R&D & Engineering,5201,Engineering Salaries,Fixed,3296000,
+2026-04-01,R&D & Engineering,5202,Software Tools & Licences,Fixed,360000,362700
+2026-04-01,R&D & Engineering,5203,Contract Developers,Variable,927000,952200
+2026-05-01,Cloud Infrastructure,5101,Compute & Hosting,Variable,1872000,1935500
+2026-05-01,Cloud Infrastructure  ,5102,Data Storage & Backup,Variable,624000,626100
+2026-05-01,Cloud Infrastructure,5103,Cloud Support & Licences,Fixed,416000,417200
+2026-05-01,G&A / Payroll,5401,Admin & Finance Salaries,Fixed,1560000,1583300
+2026-05-01,G&A / Payroll,5402,Office Rent & Utilities,Fixed,624000,618600
+2026-05-01,G&A / Payroll,5403,Professional & Legal Fees,Variable,312000,327100
+2026-05-01,Performance Marketing,5301,Paid Search & Social Ads,Variable,"₹20,80,000",2031100
+2026-05-01,Performance Marketing,5302,Affiliate Commissions,Variable,728000,704700
+2026-05-01,Performance Marketing,5303,Marketing Analytics Tools,Fixed,260000,259300
+2026-05-01,R&D & Engineering,5201,Engineering Salaries,Fixed,3328000,"₹33,49,000"
+2026-05-01,R&D & Engineering,5202,Software Tools & Licences,Fixed,364000,358700
+2026-05-01,R&D & Engineering,5203,Contract Developers,Variable,936000,921000
+2026-06-01,Cloud Infrastructure,5101,Compute & Hosting,Variable,1890000,1731000
+2026-06-01,Cloud Infrastructure,5102,Data Storage & Backup,Variable,630000,619500
+2026-06-01,Cloud Infrastructure,5103,Cloud Support & Licences,Fixed,420000,420700
+2026-06-01,G&A / Payroll,5401,Admin & Finance Salaries,Fixed,1575000,1572000
+2026-06-01,G&A / Payroll,5402,Office Rent & Utilities,Fixed,630000,622000
+2026-06-01,G&A / Payroll,5403,Professional & Legal Fees,Variable,315000,297200
+2026-06-01,Performance Marketing,5301,Paid Search & Social Ads,Variable,2100000,2063400
+2026-06-01,Performance Marketing,5302,Affiliate Commissions,Variable,735000,718000
+2026-06-01,Performance Marketing,5303,Marketing Analytics Tools,Fixed,262000,264200
+2026-06-01,R&D & Engineering,5201,Engineering Salaries,Fixed,3360000,3379700
+2026-06-01,R&D & Engineering,5202,Software Tools & Licences,Fixed,368000,370600
+2026-06-01,R&D & Engineering,5203,Contract Developers,Variable,945000,"₹9,82,500"
+2026-07-01,Cloud Infrastructure,5101,Compute & Hosting,Variable,1908000,2092200
+2026-07-01,Cloud Infrastructure,5102,Data Storage & Backup,Variable,636000,750500
+2026-07-01,Cloud Infrastructure,5103,Cloud Support & Licences,Fixed,424000,441600
+2026-07-01,G&A / Payroll,5401,Admin & Finance Salaries,Fixed,1590000,1590200
+2026-07-01,G&A / Payroll,5402,Office Rent & Utilities,Fixed,636000,639100
+2026-07-01,G&A / Payroll,5403,Professional & Legal Fees,Variable,318000,"₹3,25,100"
+2026-07-01,Performance Marketing,5301,Paid Search & Social Ads,Variable,2120000,2372700
+2026-07-01,Performance Marketing,5302,Affiliate Commissions,Variable,742000,892700
+2026-07-01,Performance Marketing,5303,Marketing Analytics Tools,Fixed,265000,277300
+2026-07-01,R&D & Engineering,5201,Engineering Salaries,Fixed,3392000,3413200
+2026-07-01,R&D & Engineering,5202,Software Tools & Licences,Fixed,371000,369900
+2026-07-01,R&D & Engineering,5203,Contract Developers,Variable,954000,975800
+2026-08-01,Cloud Infrastructure,5101,Compute & Hosting,Variable,1926000,2279900
+2026-08-01,Cloud Infrastructure,5102,Data Storage & Backup,Variable,642000,737800
+2026-08-01,Cloud Infrastructure,5103,Cloud Support & Licences,Fixed,428000,434400
+2026-08-01,G&A / Payroll,5401,Admin & Finance Salaries,Fixed,1605000,1601700
+2026-08-01,G&A / Payroll,5402,Office Rent & Utilities,Fixed,642000,635900
+2026-08-01,G&A / Payroll,5403,Professional & Legal Fees,Variable,321000,315600
+2026-08-01,Performance Marketing,5301,Paid Search & Social Ads,Variable,2140000,2421000
+2026-08-01,Performance Marketing,5302,Affiliate Commissions,Variable,"₹7,49,000",968300
+2026-08-01,Performance Marketing,5303,Marketing Analytics Tools,Fixed,268000,283000
+2026-08-01,R&D & Engineering,5201,Engineering Salaries,Fixed,3424000,3378700
+2026-08-01,R&D & Engineering,5202,Software Tools & Licences,Fixed,374000,370300
+2026-08-01,R&D & Engineering,5203,Contract Developers,Variable,963000,982200
+2026-09-01,Cloud Infrastructure,5101,Compute & Hosting,Variable,1944000,2290400
+2026-09-01,Cloud Infrastructure,5102,Data Storage & Backup,Variable,648000,769900
+2026-09-01,Cloud Infrastructure,5103,Cloud Support & Licences,Fixed,432000,449800
+2026-09-01,G&A / Payroll,5401,Admin & Finance Salaries,Fixed,1620000,1642000
+2026-09-01,G&A / Payroll,5402,Office Rent & Utilities,Fixed,648000,653400
+2026-09-01,G&A / Payroll,5403,Professional & Legal Fees,Variable,324000,329800
+2026-09-01,Performance Marketing,5301,Paid Search & Social Ads,Variable,2160000,2612500
+2026-09-01,Performance Marketing,5302,Affiliate Commissions,Variable,756000,866700
+2026-09-01,Performance Marketing,5303,Marketing Analytics Tools,Fixed,"₹2,70,000",280900
+2026-09-01,R&D & Engineering,5201,Engineering Salaries,Fixed,3456000,3458500
+2026-09-01,R&D & Engineering,5202,Software Tools & Licences,Fixed,378000,376000
+2026-09-01,R&D & Engineering,5203,Contract Developers,Variable,972000,983300
+2026-10-01,Cloud Infrastructure,5101,Compute & Hosting,Variable,1962000,2597100
+2026-10-01,Cloud Infrastructure,5102,Data Storage & Backup,Variable,654000,823400
+2026-10-01,Cloud Infrastructure,5103,Cloud Support & Licences,Fixed,436000,
+2026-10-01,G&A / Payroll,5401,Admin & Finance Salaries,Fixed,1635000,1618800
+2026-10-01,G&A / Payroll,5402,Office Rent & Utilities,Fixed,654000,640100
+2026-10-01,G&A / Payroll,5403,Professional & Legal Fees,Variable,327000,331400
+2026-10-01,Performance Marketing,5301,Paid Search & Social Ads,Variable,2180000,2870300
+2026-10-01,Performance Marketing,5302,Affiliate Commissions,Variable,763000,1041400
+2026-10-01,Performance Marketing,5303,Marketing Analytics Tools,Fixed,272000,306500
+2026-10-01,R&D & Engineering,5201,Engineering Salaries,Fixed,3488000,3510200
+2026-10-01,R&D & Engineering,5202,Software Tools & Licences,Fixed,382000,381200
+2026-10-01,R&D & Engineering,5203,Contract Developers,Variable,981000,908900
+2026-11-01,Cloud Infrastructure,5101,Compute & Hosting,Variable,1980000,2379600
+2026-11-01,Cloud Infrastructure,5102,Data Storage & Backup,Variable,660000,760300
+2026-11-01,Cloud Infrastructure,5103,Cloud Support & Licences,Fixed,440000,476300
+2026-11-01,G&A / Payroll,5401,Admin & Finance Salaries,Fixed,1650000,1641800
+2026-11-01,G&A / Payroll,5402,Office Rent & Utilities,Fixed,660000,652200
+2026-11-01,G&A / Payroll,5403,Professional & Legal Fees,Variable,"₹3,30,000",314100
+2026-11-01,Performance Marketing,5301,Paid Search & Social Ads,Variable,2200000,2789300
+2026-11-01,Performance Marketing,5302,Affiliate Commissions,Variable,770000,1057300
+2026-11-01,Performance Marketing,5303,Marketing Analytics Tools,Fixed,275000,"₹2,93,700"
+2026-11-01,R&D & Engineering,5201,Engineering Salaries,Fixed,3520000,3514400
+2026-11-01,R&D & Engineering,5202,Software Tools & Licences,Fixed,385000,381000
+2026-11-01,R&D & Engineering,5203,Contract Developers,Variable,990000,907100
+2026-12-01,Cloud Infrastructure,5101,Compute & Hosting,Variable,1998000,2374100
+2026-12-01,Cloud Infrastructure,5102,Data Storage & Backup,Variable,666000,823100
+2026-12-01,Cloud Infrastructure,5103,Cloud Support & Licences,Fixed,444000,472700
+2026-12-01,G&A / Payroll,5401,Admin & Finance Salaries,Fixed,1665000,1691300
+2026-12-01,G&A / Payroll,5402,Office Rent & Utilities,Fixed,666000,667100
+2026-12-01,G&A / Payroll,5403,Professional & Legal Fees,Variable,333000,"₹3,31,000"
+2026-12-01,Performance Marketing,5301,Paid Search & Social Ads,Variable,2220000,2757100
+2026-12-01,Performance Marketing,5302,Affiliate Commissions,Variable,777000,1004300
+2026-12-01,Performance Marketing,5303,Marketing Analytics Tools,Fixed,278000,301100
+2026-12-01,R&D & Engineering,5201,Engineering Salaries,Fixed,3552000,3565700
+2026-12-01,R&D & Engineering,5202,Software Tools & Licences,Fixed,389000,"₹3,88,400"
+2026-12-01,R&D & Engineering,5203,Contract Developers,,999000,997000
